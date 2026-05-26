@@ -7,7 +7,7 @@ Built for **Next.js 15+ with App Router + Tailwind CSS v4 + shadcn/ui (base-nova
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/design-system-base.git ~/.claude/skills/design-system-base
+git clone https://github.com/vedantforsure/mydesignsystem-skill.git ~/.claude/skills/design-system-base
 ```
 
 Then restart Claude Code. The skill will auto-load.
@@ -15,7 +15,7 @@ Then restart Claude Code. The skill will auto-load.
 ### Windows (PowerShell)
 
 ```powershell
-git clone https://github.com/<your-username>/design-system-base.git "$env:USERPROFILE\.claude\skills\design-system-base"
+git clone https://github.com/vedantforsure/mydesignsystem-skill.git "$env:USERPROFILE\.claude\skills\design-system-base"
 ```
 
 ## Use
