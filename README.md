@@ -1,8 +1,33 @@
 # design-system-base
+A production-ready Claude Code skill for building clean, minimal, opinionated interfaces in modern React apps.
 
-A Claude Code skill that gives Claude knowledge of a clean, minimal, opinionated design system — pill-shaped buttons, neutral palette, Geist typography, `ease-ds` motion — and 23 ready-to-drop component files.
+This repo gives Claude a complete design language — from typography and motion principles to reusable UI components — so generated interfaces feel consistent, polished, and intentionally designed instead of generic AI output.
 
-Built for **Next.js 15+ with App Router + Tailwind CSS v4 + shadcn/ui (base-nova style) + Geist font**.
+Built around a restrained visual system:
+
+Pill-shaped controls
+Neutral monochrome palette
+Geist typography
+Subtle ease-ds inspired motion
+Low cognitive-load layouts
+Consistent spacing and hierarchy
+
+Includes 23 ready-to-use components designed for:
+
+SaaS dashboards
+AI products
+Landing pages
+Internal tools
+Portfolio sites
+
+Optimized for:
+
+Next.js 15+
+App Router
+Tailwind CSS v4
+shadcn/ui (base-nova style architecture)
+
+The goal is simple: make Claude generate interfaces that already feel curated, structured, and production-grade without needing heavy redesign work afterward.
 
 ## Install
 
